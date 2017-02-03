@@ -8,4 +8,4 @@ MARBL user guide
    :maxdepth: 1
    :caption: Contents:
 
-      namelist.rst
+   namelist.rst
